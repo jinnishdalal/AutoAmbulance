@@ -1,0 +1,1 @@
+<?php /**PATH /home/dvjxg9j1xkts/public_html/dashboard.drjitendrakodilkar.com/resources/views/plan/index.blade.php ENDPATH**/ ?>
